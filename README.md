@@ -195,6 +195,10 @@ Entrepreneur
 
 # Video About Myself
 
-https://github.com/user-attachments/assets/3e3ae420-6c74-4560-b1e5-e9166bca6209
+<video width="700" controls>
+  <source src="./Compressed.mp4" type="video/mp4">
+</video>
+
+
 
 
