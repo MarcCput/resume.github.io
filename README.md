@@ -196,7 +196,7 @@ Entrepreneur
 # Video About Myself
 
 <video width="700" controls>
-  <source src="./Compressed.mp4" type="video/mp4">
+  <source src="Compressed.mp4" type="video/mp4">
 </video>
 
 
