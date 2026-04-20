@@ -1,10 +1,20 @@
-# Marc Kabala🌪️ 
+<h1 align="center">Hi 👋, I'm Marc Kabala</h1>
+<h3 align="center">Software Development Student | Aspiring DevOps & Cloud Engineer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=CPUT+Software+Development+Student;Java+%7C+Python+%7C+Web+Developer;Future+DevOps+%26+Cloud+Engineer;Always+Building+and+Learning" />
+</p>
 
-Final-year **Diploma in ICT (Application Development)** student at Cape Peninsula University of Technology.  
-Experienced in **Java, SQL, and backend system design**, currently learning **Spring Boot, REST API development, Linux, and cloud technologies**.
+---
 
-Passionate about building **reliable backend systems** and transitioning into **cloud engineering and DevOps-focused roles**.
+## 🚀 About Me
+
+- 🎓 Studying Software Development at **CPUT (Cape Peninsula University of Technology)**
+- 💻 Focused on **Java, Python, Web Development & System Design**
+- ☁️ Interested in **Cloud Computing & DevOps**
+- 🧠 Passionate about building real-world solutions for everyday problems
+- 🔭 Currently working on **AWS**
+- 🌱 Always improving my skills in **algorithms, systems, and backend development**
 
 ---
 
@@ -118,6 +128,15 @@ J.G Meiring High School
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+</p>
+
+---
+
 # Skills
 
 **Programming Languages**
@@ -163,6 +182,21 @@ Entrepreneur
 <video width="700" controls>
   <source src="Compressed.mp4" type="video/mp4">
 </video>
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marc-kabala-681b66196/">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a> •
+  <a href="https://github.com/MarcCput">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=120&section=footer"/>
+</p>
 
 
 
