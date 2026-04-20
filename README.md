@@ -10,7 +10,7 @@ Passionate about building **reliable backend systems** and transitioning into **
 
 # Contact
 
-📍Location 
+📍Location<br>
 Cape Town, South Africa  
 
 📞 Phone<br>
