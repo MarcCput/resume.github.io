@@ -10,13 +10,13 @@ Passionate about building **reliable backend systems** and transitioning into **
 
 # Contact
 
-📍 Location<br>
+📍 Location
 Cape Town, South Africa  
 
-📞 Phone<br>
+📞 Phone
 068-150-3142  
 
-📧 Email<br>
+📧 Email
 230701876@mycput.ac.za  
 
 🔗 LinkedIn  
