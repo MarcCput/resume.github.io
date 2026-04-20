@@ -128,15 +128,6 @@ J.G Meiring High School
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
-</p>
-
----
-
 # Skills
 
 **Programming Languages**
@@ -192,11 +183,7 @@ Entrepreneur
   <a href="https://github.com/MarcCput">GitHub</a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=120&section=footer"/>
-</p>
 
 
 
