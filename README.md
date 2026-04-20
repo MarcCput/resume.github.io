@@ -18,7 +18,7 @@
 
 ---
 
-# Contact
+## 🌐 Connect With Me
 
 📍 Location: Cape Town, South Africa  
 
@@ -26,9 +26,9 @@
 
 📧 Email: 230701876@mycput.ac.za  
 
-🔗 LinkedIn: https://www.linkedin.com/in/marc-kabala-681b66196/
+🔗 <a href="https://www.linkedin.com/in/marc-kabala-681b66196/">LinkedIn</a>
 
-🔗 GitHub: https://github.com/MarcCput
+🔗 <a href="https://github.com/MarcCput">GitHub</a>
 
 ---
 
@@ -166,7 +166,36 @@ Cape Concrete
 **John Kabala**  
 Entrepreneur  
 📞 +27 826-743-167  
-📧 johnkabala87@gmail.com   
+📧 johnkabala87@gmail.com  
+
+---
+
+## 🧠 Reflection: Coding a CV Using Markdown 
+
+## ⭐ Situation
+As part of my development journey, I needed to create a professional CV using Markdown for my GitHub profile. I had basic knowledge of Markdown but had never used it to structure a full document like a CV.
+
+
+## 🎯 Task
+My goal was to design a clean, readable, and professional CV using only Markdown syntax, while ensuring it looks good on GitHub and is easy for recruiters to navigate.
+
+
+## ⚡ Action
+I structured the CV using headings, lists, and sections to organize information clearly. I applied Markdown features such as:
+- Headers for hierarchy
+- Bullet points for readability
+- Links for GitHub and LinkedIn
+- Consistent formatting for a professional layout  
+
+I also focused on keeping the content concise while highlighting my technical skills and projects.
+
+## ✅ Result
+The final CV was clean, well-structured, and easy to read on GitHub. It improved my understanding of Markdown and showed me how simple syntax can be used to create professional documentation. This skill is valuable for README files, technical documentation, and collaboration in software development.
+
+## 💡 Reflection
+Using Markdown helped me think more about **structure and clarity** rather than design complexity. It reinforced the importance of presenting information effectively, which is essential in both coding and professional communication.
+
+---
 
 # Video About Myself
 
@@ -174,17 +203,56 @@ Entrepreneur
   <source src="Compressed.mp4" type="video/mp4">
 </video>
 
+## 🧠 Reflection: Mock Interview Video Experience 
 
-## 🌐 Connect With Me
+## ⭐ Situation
+As part of my preparation for entering the tech industry, I participated in a mock interview that was recorded on video. This was one of my first experiences being formally interviewed for a software development role.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marc-kabala-681b66196/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL@gmail.com">Email</a> •
-  <a href="https://github.com/MarcCput">GitHub</a>
-</p>
+## 🎯 Task
+My goal was to present myself professionally, communicate my skills clearly, and answer technical and behavioral questions confidently while being recorded.
+
+## ⚡ Action
+I prepared by reviewing common interview questions and practicing my responses. During the interview, I focused on:
+- Speaking clearly and maintaining good posture
+- Structuring my answers logically
+- Staying calm under pressure, even when unsure of an answer  
+
+After the interview, I watched the recording to evaluate my performance, paying attention to my communication style, confidence, and areas where I hesitated.
+
+## ✅ Result
+The experience helped me identify both strengths and areas for improvement. I realized that I was able to explain my projects well, but I sometimes rushed my answers or lacked depth in technical explanations. Watching myself on video gave me a clearer perspective on how I present myself to others.
+
+## 💡 Reflection
+This experience improved my self-awareness and confidence. I learned the importance of preparation, clear communication, and structured thinking during interviews. Moving forward, I will practice answering questions more in-depth and work on pacing my responses to sound more confident and professional.
+
+---
+
+## 🌐 Reflection: Use of GitHub Pages (STAR Method)
+
+## ⭐ Situation
+As part of my development journey, I needed a way to present my projects and profile professionally online. I used GitHub Pages to host and showcase my work, including my README-based portfolio and project documentation.
 
 
+## 🎯 Task
+My goal was to create a clean, accessible, and professional online presence using GitHub Pages, while ensuring that my content was easy to navigate and visually appealing to recruiters and lecturers.
 
+
+## ⚡ Action
+I set up GitHub Pages by creating and configuring a repository to serve as my portfolio site. I:
+- Structured my content using Markdown and README files  
+- Organized sections such as projects, skills, and contact information  
+- Focused on clarity and readability rather than overcomplicating the design  
+- Tested changes by committing updates and reviewing them live on GitHub Pages  
+
+I also learned how small changes in formatting and layout could significantly improve the user experience.
+
+## ✅ Result
+The final GitHub Pages site successfully showcased my projects and skills in a professional format. It became a central place where others could easily view my work. Additionally, I improved my understanding of version control, deployment, and static site hosting.
+
+## 💡 Reflection
+Using GitHub Pages helped me understand the importance of **presentation in software development**, not just functionality. I learned how to structure content effectively and maintain a professional online presence. This experience also strengthened my confidence in using Git and GitHub as essential development tools.
+
+---
 
 
 
