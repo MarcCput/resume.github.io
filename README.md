@@ -10,9 +10,14 @@ Passionate about building **reliable backend systems** and transitioning into **
 
 # Contact
 
-📍 Cape Town, South Africa  
-📞 068-150-3142  
-📧 230701876@mycput.ac.za  
+📍Location 
+Cape Town, South Africa  
+
+📞 Phone 
+068-150-3142  
+
+📧 Email
+230701876@mycput.ac.za  
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/marc-kabala-681b66196/
