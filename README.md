@@ -55,28 +55,6 @@
 
 # Projects
 
-## Smart Logistics & Route Optimization System
-
-Logistics companies often struggle with inefficient routing, delayed deliveries, and limited performance tracking.
-
-I built a **backend system to manage drivers, vehicles, deliveries, and route optimization.**
-
-**Technologies**
-
-Java  
-Spring Boot  
-PostgreSQL  
-JWT Authentication  
-
-**Key Features**
-
-- Driver and vehicle management
-- Delivery tracking
-- Route optimization logic
-- Secure REST API authentication
-
----
-
 ## Student Enrolment Client-Server System
 
 Educational institutions require secure systems to manage students, courses, and role-based access.
