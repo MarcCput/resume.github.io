@@ -1,0 +1,1665 @@
+{
+  "sprints": [
+    {
+      "sprint": 1,
+      "week": 1,
+      "day": 1,
+      "title": "Business Concept Definition",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "14 Jul 2026",
+      "story": "As a project team, we want to define the NavigSA business concept, services and value proposition so that we have a clear and well-justified idea to present and build.",
+      "backlog_item": "B2",
+      "portfolio_backlog_id": "US-02"
+    },
+    {
+      "sprint": 2,
+      "week": 1,
+      "day": 2,
+      "title": "Define the customer profile",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "14 Jul - 15 Jul 2026",
+      "story": "As a project team, we want to understand our customer so that NavigSA provides services that address their actual needs.",
+      "backlog_item": "B2",
+      "portfolio_backlog_id": "US-02"
+    },
+    {
+      "sprint": 3,
+      "week": 1,
+      "day": 3,
+      "title": "Presentation Development and Delivery (Enabler)",
+      "members": [
+        "Tanatswa Mabhodha"
+      ],
+      "dates": "16 Jul 2026",
+      "story": "Enabler task: to get early feedback on the project, the team will present the NavigSA business concept to the project supervisor.",
+      "backlog_item": "B27",
+      "portfolio_backlog_id": "US-07"
+    },
+    {
+      "sprint": 4,
+      "week": 1,
+      "day": 4,
+      "title": "Prepare the project for execution",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "17 Jul 2026",
+      "story": "As a project team, we want to clearly communicate why NavigSA should be trusted so that international students can confidently use the platform.",
+      "backlog_item": "B2",
+      "portfolio_backlog_id": "US-02"
+    },
+    {
+      "sprint": 5,
+      "week": 2,
+      "day": 1,
+      "title": "Community and Market Research",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "20 Jul - 21 Jul 2026",
+      "story": "As an international student, I want NavigSA to understand the challenges I face when studying in South Africa so that the platform provides relevant services.",
+      "backlog_item": "B3",
+      "portfolio_backlog_id": "US-03"
+    },
+    {
+      "sprint": 6,
+      "week": 2,
+      "day": 2,
+      "title": "Identify the target customers",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "22 Jul 2026",
+      "story": "As an international student, I want NavigSA to understand how frequently my problems occur so that the platform addresses problems that genuinely need solving.",
+      "backlog_item": "B3",
+      "portfolio_backlog_id": "US-03"
+    },
+    {
+      "sprint": 7,
+      "week": 2,
+      "day": 3,
+      "title": "Community and Market Research",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "23 Jul 2026",
+      "story": "As an international student, I want NavigSA to use real feedback from students so that the services address actual pain points.",
+      "backlog_item": "B3",
+      "portfolio_backlog_id": "US-03"
+    },
+    {
+      "sprint": 8,
+      "week": 2,
+      "day": 4,
+      "title": "Complete the business concept and Presentation Development",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "24 Jul 2026",
+      "story": "As a project supervisor, I want to review the completed NavigSA business concept so that I can assess the team's progress.",
+      "backlog_item": "B2",
+      "portfolio_backlog_id": "US-02"
+    },
+    {
+      "sprint": 9,
+      "week": 3,
+      "day": 1,
+      "title": "Platform Design (UI/UX)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu"
+      ],
+      "dates": "28 Jul - 29 Jul 2026",
+      "story": "As an international student, I want NavigSA to have a clear and easy-to-use interface so that I can find the services and information I need.",
+      "backlog_item": "B5",
+      "portfolio_backlog_id": "US-09"
+    },
+    {
+      "sprint": 10,
+      "week": 3,
+      "day": 2,
+      "title": "Platform Design (UI/UX)",
+      "members": [
+        "Nolwazi Zulu"
+      ],
+      "dates": "28 Jul - 29 Jul 2026",
+      "story": "As an international student, I want a simple registration and verification process so that I can safely create my NavigSA account.",
+      "backlog_item": "B5",
+      "portfolio_backlog_id": "US-09"
+    },
+    {
+      "sprint": 11,
+      "week": 3,
+      "day": 3,
+      "title": "Platform Design (UI/UX)",
+      "members": [
+        "Marc Kabala"
+      ],
+      "dates": "30 Jul 2026",
+      "story": "As a service provider, I want a clear onboarding process so that I can register and offer services through NavigSA.",
+      "backlog_item": "B5",
+      "portfolio_backlog_id": "US-09"
+    },
+    {
+      "sprint": 12,
+      "week": 3,
+      "day": 4,
+      "title": "Platform Design (UI/UX)",
+      "members": [
+        "Witcha Francisco"
+      ],
+      "dates": "31 Jul 2026",
+      "story": "As a French or Portuguese-speaking international student, I want NavigSA information to be available in my preferred language so that I can understand the services.",
+      "backlog_item": "B5",
+      "portfolio_backlog_id": "US-09"
+    },
+    {
+      "sprint": 13,
+      "week": 4,
+      "day": 1,
+      "title": "Platform Design (UI/UX)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "4 Aug 2026",
+      "story": "As an international student, I want to see a clear visual prototype of NavigSA so that I can understand how the platform will work. Present the completed website prototype and review the designed interface.",
+      "backlog_item": "B5",
+      "portfolio_backlog_id": "US-09"
+    },
+    {
+      "sprint": 14,
+      "week": 4,
+      "day": 2,
+      "title": "Agile Project Documentation (Enabler)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "4 Aug - 5 Aug 2026",
+      "story": "Enabler task: to track the team's work and progress, the team will keep its sprint boards and Agile documentation organised and up to date.",
+      "backlog_item": "B28",
+      "portfolio_backlog_id": "US-08"
+    },
+    {
+      "sprint": 15,
+      "week": 4,
+      "day": 3,
+      "title": "Brand Guide and Sprint Board",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "5 Aug - 6 Aug 2026",
+      "story": "As an international student, I want NavigSA to have a consistent and professional brand so that I can recognise and trust the platform.",
+      "backlog_item": null,
+      "portfolio_backlog_id": null
+    },
+    {
+      "sprint": 16,
+      "week": 4,
+      "day": 4,
+      "title": "Monthly Project Reports (July) (Enabler)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "6 Aug - 7 Aug 2026",
+      "story": "Enabler task: to record project participation and progress, the team will complete and submit the July monthly project report.",
+      "backlog_item": "B28",
+      "portfolio_backlog_id": "US-08"
+    },
+    {
+      "sprint": 17,
+      "week": 5,
+      "day": 1,
+      "title": "Design the NavigSA website structure",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu"
+      ],
+      "dates": "11 Aug 2026",
+      "story": "As an international student, I want NavigSA to be built on a reliable technical foundation so that I can use the platform securely.",
+      "backlog_item": null,
+      "portfolio_backlog_id": null
+    },
+    {
+      "sprint": 18,
+      "week": 5,
+      "day": 2,
+      "title": "System Architecture and Technical Design",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha"
+      ],
+      "dates": "11 Aug - 12 Aug 2026",
+      "story": "As an international student, I want NavigSA's services to communicate reliably so that my information and requests are processed correctly.",
+      "backlog_item": null,
+      "portfolio_backlog_id": null
+    },
+    {
+      "sprint": 19,
+      "week": 5,
+      "day": 3,
+      "title": "System Architecture and Technical Design",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu"
+      ],
+      "dates": "13 Aug 2026",
+      "story": "As an international student, I want my personal information to be protected so that I can trust NavigSA with my documents and details.",
+      "backlog_item": "B24",
+      "portfolio_backlog_id": "US-26"
+    },
+    {
+      "sprint": 20,
+      "week": 5,
+      "day": 4,
+      "title": "Create and Finalise Brand Guide (Enabler)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "13 Aug 2026",
+      "story": "Enabler task: to keep the platform and marketing materials consistent and professional, the team will create and present the NavigSA Brand Guide.",
+      "backlog_item": null,
+      "portfolio_backlog_id": null
+    },
+    {
+      "sprint": 21,
+      "week": 6,
+      "day": 1,
+      "title": "Website Development: Setup and Backend",
+      "members": [
+        "Marc Kabala"
+      ],
+      "dates": "14 Aug - 18 Aug 2026",
+      "story": "As an international student, I want my account and information to be stored securely so that I can use NavigSA services.",
+      "backlog_item": "B29",
+      "portfolio_backlog_id": "US-29"
+    },
+    {
+      "sprint": 22,
+      "week": 6,
+      "day": 2,
+      "title": "Website Development: Setup and Backend",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "18 Aug - 19 Aug 2026",
+      "story": "As an international student, I want to register for a NavigSA account so that I can access the platform's services.",
+      "backlog_item": "B7",
+      "portfolio_backlog_id": "US-10"
+    },
+    {
+      "sprint": 23,
+      "week": 6,
+      "day": 3,
+      "title": "Website Development: Setup and Backend",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Witcha Francisco"
+      ],
+      "dates": "19 Aug - 20 Aug 2026",
+      "story": "As a service provider, I want to register on NavigSA so that I can offer services to international students.",
+      "backlog_item": "B14",
+      "portfolio_backlog_id": "US-19"
+    },
+    {
+      "sprint": 24,
+      "week": 6,
+      "day": 4,
+      "title": "Website Development: Setup and Backend",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "20 Aug - 21 Aug 2026",
+      "story": "As an international student, I want to submit reviews and access service information so that I can make informed decisions about NavigSA services.",
+      "backlog_item": "B17",
+      "portfolio_backlog_id": "US-22"
+    },
+    {
+      "sprint": 25,
+      "week": 7,
+      "day": 1,
+      "title": "Website Development: Setup and Backend",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "25 Aug 2026",
+      "story": "As an international student, I want to log into my account securely so that only I can access my information.",
+      "backlog_item": "B8",
+      "portfolio_backlog_id": "US-11"
+    },
+    {
+      "sprint": 26,
+      "week": 7,
+      "day": 2,
+      "title": "Trust, Verification and Governance Design",
+      "members": [
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha"
+      ],
+      "dates": "25 Aug - 26 Aug 2026",
+      "story": "As an international student, I want providers to be verified so that I can trust the services offered through NavigSA.",
+      "backlog_item": "B15",
+      "portfolio_backlog_id": "US-20"
+    },
+    {
+      "sprint": 27,
+      "week": 7,
+      "day": 3,
+      "title": "Trust, Verification and Governance Design",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "25 Aug - 27 Aug 2026",
+      "story": "As an international student, I want to see genuine reviews and have protection when something goes wrong so that I can use NavigSA with confidence.",
+      "backlog_item": "B17",
+      "portfolio_backlog_id": "US-22"
+    },
+    {
+      "sprint": 28,
+      "week": 7,
+      "day": 4,
+      "title": "Website Development: Setup and Backend",
+      "members": [
+        "Marc Kabala"
+      ],
+      "dates": "25 Aug - 28 Aug 2026",
+      "story": "As an international student, I want NavigSA's backend to be available online so that I can access its services through the website.",
+      "backlog_item": "B29",
+      "portfolio_backlog_id": "US-29"
+    },
+    {
+      "sprint": 29,
+      "week": 8,
+      "day": 1,
+      "title": "Task 1 of 4: Set up the backend project",
+      "members": [
+        "Marc Kabala"
+      ],
+      "dates": "1 Sep 2026",
+      "story": "Story: Store My Information Securely (Backend & Database). Set up the backend project: create the project, configure the environment and install the dependencies.",
+      "backlog_item": "B29",
+      "portfolio_backlog_id": "US-29"
+    },
+    {
+      "sprint": 30,
+      "week": 8,
+      "day": 2,
+      "title": "Task 2 of 4: Design the database",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha"
+      ],
+      "dates": "2 Sep 2026",
+      "story": "Story: Store My Information Securely (Backend & Database). Design the database: tables, relationships and the data that is stored for students and providers.",
+      "backlog_item": "B29",
+      "portfolio_backlog_id": "US-29"
+    },
+    {
+      "sprint": 31,
+      "week": 8,
+      "day": 3,
+      "title": "Task 3 of 4: Implement database models",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Witcha Francisco"
+      ],
+      "dates": "3 Sep 2026",
+      "story": "Story: Store My Information Securely (Backend & Database). Implement the database models from the approved design.",
+      "backlog_item": "B29",
+      "portfolio_backlog_id": "US-29"
+    },
+    {
+      "sprint": 32,
+      "week": 8,
+      "day": 4,
+      "title": "Task 4 of 4: Prepare backend APIs",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Witcha Francisco"
+      ],
+      "dates": "4 Sep 2026",
+      "story": "Story: Store My Information Securely (Backend & Database). Prepare the secure backend APIs that read and write the stored data.",
+      "backlog_item": "B29",
+      "portfolio_backlog_id": "US-29"
+    },
+    {
+      "sprint": 33,
+      "week": 9,
+      "day": 1,
+      "title": "View Student Dashboard",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha"
+      ],
+      "dates": "7 Sep - 8 Sep 2026",
+      "story": "As an international student, I want to access all my information and NavigSA services from one dashboard so that I can manage everything in one place. Develop and integrate the student dashboard.",
+      "backlog_item": "B11",
+      "portfolio_backlog_id": "US-15"
+    },
+    {
+      "sprint": 34,
+      "week": 9,
+      "day": 2,
+      "title": "View Student Dashboard",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Witcha Francisco"
+      ],
+      "dates": "8 Sep - 9 Sep 2026",
+      "story": "As an international student, I want my bookings, appointments and notifications visible on my dashboard so that I can keep track of my NavigSA activities.",
+      "backlog_item": "B11",
+      "portfolio_backlog_id": "US-15"
+    },
+    {
+      "sprint": 35,
+      "week": 9,
+      "day": 3,
+      "title": "View Student Dashboard",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha"
+      ],
+      "dates": "9 Sep - 10 Sep 2026",
+      "story": "As an international student, I want my dashboard connected to the NavigSA backend so that the information displayed is accurate and up to date.",
+      "backlog_item": "B11",
+      "portfolio_backlog_id": "US-15"
+    },
+    {
+      "sprint": 36,
+      "week": 9,
+      "day": 4,
+      "title": "Track Application Status",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Witcha Francisco"
+      ],
+      "dates": "10 Sep - 11 Sep 2026",
+      "story": "As an international student, I want to track my application progress so that I know what stage my application is at.",
+      "backlog_item": "B12",
+      "portfolio_backlog_id": "US-16"
+    },
+    {
+      "sprint": 37,
+      "week": 10,
+      "day": 1,
+      "title": "Use Reliable Platform (Testing & QA)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "14 Sep - 15 Sep 2026",
+      "story": "As an international student, I want the NavigSA platform to work reliably so that I can complete my applications and access services without errors. Begin testing and identify defects.",
+      "backlog_item": "B25",
+      "portfolio_backlog_id": "US-27"
+    },
+    {
+      "sprint": 38,
+      "week": 10,
+      "day": 2,
+      "title": "Website Development: Setup and Backend",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "16 Sep 2026",
+      "story": "As an international student, I want NavigSA's backend to work correctly and securely so that I can use the platform's services with confidence. Present the completed backend to the project supervisor for review.",
+      "backlog_item": "B27",
+      "portfolio_backlog_id": "US-07"
+    },
+    {
+      "sprint": 39,
+      "week": 10,
+      "day": 3,
+      "title": "Use Reliable Platform (Testing & QA)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "16 Sep - 17 Sep 2026",
+      "story": "As an international student, I want my documents and services to work correctly so that I can use NavigSA without problems. Continue testing the main student functionality.",
+      "backlog_item": "B25",
+      "portfolio_backlog_id": "US-27"
+    },
+    {
+      "sprint": 40,
+      "week": 10,
+      "day": 4,
+      "title": "Use Reliable Platform (Testing & QA)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "16 Sep - 18 Sep 2026",
+      "story": "As an international student, I want all platform features to work together so that I can complete my tasks without errors. Test remaining functionality and frontend/backend integration.",
+      "backlog_item": "B25",
+      "portfolio_backlog_id": "US-27"
+    },
+    {
+      "sprint": 41,
+      "week": 11,
+      "day": 1,
+      "title": "Use Reliable Platform (Testing & QA)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "22 Sep 2026",
+      "story": "As an international student, I want NavigSA to be tested by real users so that the platform is easy to use and reliable. Conduct user acceptance testing with sample users.",
+      "backlog_item": "B25",
+      "portfolio_backlog_id": "US-27"
+    },
+    {
+      "sprint": 42,
+      "week": 11,
+      "day": 2,
+      "title": "Use Reliable Platform (Testing & QA)",
+      "members": [
+        "Marc Kabala"
+      ],
+      "dates": "22 Sep - 23 Sep 2026",
+      "story": "As an international student, I want problems found during testing to be fixed so that I can use NavigSA without errors. Resolve defects identified during testing.",
+      "backlog_item": "B25",
+      "portfolio_backlog_id": "US-27"
+    },
+    {
+      "sprint": 43,
+      "week": 11,
+      "day": 3,
+      "title": "Protect Student Information (Operations & Compliance)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "24 Sep 2026",
+      "story": "As an international student, I want my personal information and documents to be stored securely so that my privacy is protected. Review privacy, security and compliance requirements.",
+      "backlog_item": "B24",
+      "portfolio_backlog_id": "US-26"
+    },
+    {
+      "sprint": 44,
+      "week": 11,
+      "day": 4,
+      "title": "Protect Student Information (Operations & Compliance)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu"
+      ],
+      "dates": "25 Sep 2026",
+      "story": "As an international student, I want my account and documents protected from unauthorised access so that my information remains secure. Review the technical security measures.",
+      "backlog_item": "B24",
+      "portfolio_backlog_id": "US-26"
+    },
+    {
+      "sprint": 45,
+      "week": 12,
+      "day": 1,
+      "title": "Protect Student Information (Operations & Compliance)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "25 Sep - 29 Sep 2026",
+      "story": "As an international student, I want NavigSA to maintain accurate and secure information so that I can rely on the platform. Complete operational and security procedures.",
+      "backlog_item": "B24",
+      "portfolio_backlog_id": "US-26"
+    },
+    {
+      "sprint": 46,
+      "week": 12,
+      "day": 2,
+      "title": "Access Multilingual Content",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "29 Sep - 30 Sep 2026",
+      "story": "As a French or Portuguese-speaking international student, I want to access NavigSA information in my preferred language so that I can understand the services available to me.",
+      "backlog_item": "B19",
+      "portfolio_backlog_id": "US-24"
+    },
+    {
+      "sprint": 47,
+      "week": 12,
+      "day": 3,
+      "title": "Access Multilingual Content",
+      "members": [
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "1 Oct 2026",
+      "story": "As a French or Portuguese-speaking international student, I want translated information to be accurate so that I do not misunderstand important NavigSA information. Review and test translations.",
+      "backlog_item": "B19",
+      "portfolio_backlog_id": "US-24"
+    },
+    {
+      "sprint": 48,
+      "week": 12,
+      "day": 4,
+      "title": "Learn Through Educational Content",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "2 Oct 2026",
+      "story": "As an international student, I want access to educational guides and videos about studying in South Africa so that I can understand the processes I need to follow.",
+      "backlog_item": "B21",
+      "portfolio_backlog_id": "US-25"
+    },
+    {
+      "sprint": 49,
+      "week": 13,
+      "day": 1,
+      "title": "Access Live Platform (Deployment & Launch)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "6 Oct 2026",
+      "story": "As an international student, I want NavigSA to be available online so that I can access the platform from anywhere. Finalise the live website and prepare the website submission.",
+      "backlog_item": "B26",
+      "portfolio_backlog_id": "US-28"
+    },
+    {
+      "sprint": 50,
+      "week": 13,
+      "day": 2,
+      "title": "Monthly Project Reports (Enabler)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "7 Oct 2026",
+      "story": "Enabler task: to record the team's progress and participation, the team will complete and submit the required monthly project reports.",
+      "backlog_item": "B28",
+      "portfolio_backlog_id": "US-08"
+    },
+    {
+      "sprint": 51,
+      "week": 13,
+      "day": 3,
+      "title": "Use Reliable Platform (Testing & QA)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "8 Oct 2026",
+      "story": "As an international student, I want the NavigSA platform to work reliably so that I can use the website without errors. Conduct final testing of the fully functional live website.",
+      "backlog_item": "B25",
+      "portfolio_backlog_id": "US-27"
+    },
+    {
+      "sprint": 52,
+      "week": 13,
+      "day": 4,
+      "title": "Use Reliable Platform (Testing & QA)",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "dates": "9 Oct 2026",
+      "story": "As an international student, I want every part of NavigSA to function correctly so that I can use the platform confidently. Complete final testing and address remaining issues on the live platform.",
+      "backlog_item": "B25",
+      "portfolio_backlog_id": "US-27"
+    }
+  ],
+  "backlog": [
+    {
+      "id": "B1",
+      "title": "Coordinate Workspace & Sprint Planning",
+      "type": "Enabler",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "To collaborate effectively and deliver the project, the team will set up a shared project workspace and sprint plan. Set up the project environment, assign responsibilities, define communication channels, and prepare Scrum artefacts before development begins.",
+      "acceptance_criteria": [
+        "The Trello board has a Product Backlog list and one list per sprint week, and every member can open it.",
+        "Each member's role and responsibilities are written down in the team charter.",
+        "The team has agreed on communication channels and meeting times, and recorded them."
+      ],
+      "sprints": [],
+      "portfolio_id": "US-01",
+      "points": 3,
+      "tasks": [
+        "Create the Trello board with Product Backlog and Sprint Week lists",
+        "Invite all four team members and assign roles",
+        "Agree on communication channels and the stand-up schedule",
+        "Set up the shared GitHub repository and document storage",
+        "Write a Definition of Done for the team"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B2",
+      "title": "Define Business Concept",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want one trusted platform that provides all the services I need for studying in South Africa so that I don't have to search multiple websites.",
+      "acceptance_criteria": [
+        "The problem statement, the solution and the target beneficiaries are documented.",
+        "The core services are listed: SAQA evaluation, visa guidance, university applications and accommodation.",
+        "The value proposition and trust factors have been presented to the supervisor and the feedback recorded."
+      ],
+      "sprints": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "portfolio_id": "US-02",
+      "points": 5,
+      "tasks": [
+        "Write the problem statement and identify the target beneficiaries",
+        "Define the list of NavigSA services",
+        "Draft the value proposition and trust factors, with references",
+        "Prepare and deliver the business concept presentation",
+        "Turn supervisor feedback into backlog changes"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B3",
+      "title": "Conduct Community & Market Research",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want NavigSA to understand my challenges so that the services offered solve my real problems.",
+      "acceptance_criteria": [
+        "Interviews with international students and service providers have been completed and summarised.",
+        "The identified problems are ranked by how often they happen, how urgent they are and how important they are.",
+        "There is evidence of whether students would pay for a solution."
+      ],
+      "sprints": [
+        5,
+        6,
+        7
+      ],
+      "portfolio_id": "US-03",
+      "points": 5,
+      "tasks": [
+        "Draft the interview questions",
+        "Interview international students and relevant service providers",
+        "Analyse the findings and rank the problems",
+        "Build the customer profile (needs, where to reach them, when they need help)",
+        "Validate problem urgency and willingness to pay"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B4",
+      "title": "Feasibility & Business Planning",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want affordable service packages so that I can choose support that fits my budget.",
+      "acceptance_criteria": [
+        "Service packages are defined, each with a price and what it includes.",
+        "Cost and revenue projections show whether the business is viable.",
+        "The feasibility study is complete and has a clear conclusion."
+      ],
+      "sprints": [],
+      "portfolio_id": "US-04",
+      "points": 5,
+      "tasks": [
+        "Research competitor and agent pricing",
+        "Define the service packages and prices",
+        "Build the cost and revenue projection",
+        "Write the feasibility study"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B22",
+      "title": "Discover NavigSA Through Marketing",
+      "type": "User story",
+      "priority": "Medium",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As a prospective international student, I want to discover NavigSA through trusted online platforms so that I can learn about the services available before starting my application.",
+      "acceptance_criteria": [
+        "The brand guide (logo, colours, fonts, tone) is used on the website and on every marketing post.",
+        "NavigSA social media pages are live and linked from the website.",
+        "Enquiries from marketing channels are recorded so that we can see which channels work."
+      ],
+      "sprints": [],
+      "portfolio_id": "US-05",
+      "points": 5,
+      "tasks": [
+        "Create and finalise the NavigSA brand guide",
+        "Set up the social media accounts",
+        "Plan a content calendar",
+        "Share content in international student communities",
+        "Track enquiries by source"
+      ],
+      "moscow": "Should"
+    },
+    {
+      "id": "B23",
+      "title": "Build Strategic Partnerships",
+      "type": "User story",
+      "priority": "Medium",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want NavigSA to partner with trusted organisations so that I can access reliable services from verified providers.",
+      "acceptance_criteria": [
+        "A shortlist of target partners (institutions, accommodation providers, agents) is documented.",
+        "The outreach status of each partner is recorded.",
+        "Partners that have agreed appear on the website, with their permission."
+      ],
+      "sprints": [],
+      "portfolio_id": "US-06",
+      "points": 8,
+      "tasks": [
+        "Identify the target partner organisations",
+        "Write a partnership proposal",
+        "Contact partners and log their responses",
+        "Add the confirmed partners to the website"
+      ],
+      "moscow": "Should"
+    },
+    {
+      "id": "B27",
+      "title": "Present Project Progress",
+      "type": "Enabler",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "To get feedback and show that the project is meeting its objectives, the team will present its progress to the project supervisor at each milestone.",
+      "acceptance_criteria": [
+        "Each milestone presentation is delivered on its scheduled date.",
+        "Each presentation shows working results (a prototype, the backend or the live site), not only slides.",
+        "The supervisor's feedback is added to the backlog as new or updated cards."
+      ],
+      "sprints": [
+        3,
+        38
+      ],
+      "portfolio_id": "US-07",
+      "points": 3,
+      "tasks": [
+        "Prepare the slides and the demo",
+        "Rehearse as a team",
+        "Deliver the presentation",
+        "Log the feedback on Trello"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B28",
+      "title": "Complete Final Academic Documentation",
+      "type": "Enabler",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "To meet all WIL requirements, the team will compile and submit complete, well-structured project documentation.",
+      "acceptance_criteria": [
+        "All monthly project reports have been submitted on time.",
+        "The sprint documentation and the agile logbook are complete and up to date.",
+        "The Trello board shows the true final status of every card."
+      ],
+      "sprints": [
+        14,
+        16,
+        50
+      ],
+      "portfolio_id": "US-08",
+      "points": 5,
+      "tasks": [
+        "Complete the monthly project reports",
+        "Keep the sprint boards and logbook up to date",
+        "Compile the WIL documentation",
+        "Submit the documentation and check that it was received"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B5",
+      "title": "Platform Design (UI/UX)",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want an attractive and easy-to-use website so that I can quickly understand NavigSA's services.",
+      "acceptance_criteria": [
+        "Wireframes exist for the home, services, registration, dashboard and provider onboarding pages.",
+        "The clickable prototype uses the brand guide and works on mobile and desktop.",
+        "The prototype has been reviewed by the team and the supervisor, and the changes recorded."
+      ],
+      "sprints": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "portfolio_id": "US-09",
+      "points": 8,
+      "tasks": [
+        "Draw the sitemap and the main user flows",
+        "Design the student registration and verification screens",
+        "Design the service provider onboarding screens",
+        "Design the multilingual content interface",
+        "Define the website and technical structure",
+        "Present the prototype for review"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B7",
+      "title": "Create Student Account",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Witcha Francisco"
+      ],
+      "story": "As an international student, I want to create a NavigSA account so that I can access personalised services.",
+      "acceptance_criteria": [
+        "Given valid details, when I submit the registration form, my account is created and a confirmation is shown.",
+        "If my email address is already registered, the form says so and does not create a second account.",
+        "Required fields are checked before submission, and the password is stored only as a hash."
+      ],
+      "sprints": [
+        22
+      ],
+      "portfolio_id": "US-10",
+      "points": 5,
+      "tasks": [
+        "Build the registration form",
+        "Add client-side and server-side validation",
+        "Create the registration API endpoint",
+        "Hash passwords and save the student record",
+        "Test valid, duplicate and invalid sign-ups"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B8",
+      "title": "Secure Login",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want to log into my account securely so that I can access my personal dashboard.",
+      "acceptance_criteria": [
+        "Given correct credentials, when I log in, I am taken to my dashboard.",
+        "Given wrong credentials, I see a general error that does not say which field was wrong.",
+        "Repeated failed attempts are slowed down or blocked, and logging out ends my session."
+      ],
+      "sprints": [
+        25
+      ],
+      "portfolio_id": "US-11",
+      "points": 5,
+      "tasks": [
+        "Build the login form",
+        "Create the authentication endpoint and session or token handling",
+        "Add a limit on failed login attempts",
+        "Add logout",
+        "Test successful, failed and locked-out logins"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B9",
+      "title": "Manage Student Profile",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Witcha Francisco"
+      ],
+      "story": "As an international student, I want to update my personal profile so that my information stays accurate throughout my application journey.",
+      "acceptance_criteria": [
+        "I can view my profile details.",
+        "I can edit and save my details, and invalid values are rejected with a clear message.",
+        "The saved changes show on my dashboard straight away."
+      ],
+      "sprints": [],
+      "portfolio_id": "US-12",
+      "points": 3,
+      "tasks": [
+        "Build the profile page",
+        "Create the profile update endpoint",
+        "Add validation",
+        "Test viewing and editing the profile"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B6",
+      "title": "Browse Available Services",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "story": "As an international student, I want to browse all available NavigSA services so that I can decide which service best suits my needs.",
+      "acceptance_criteria": [
+        "The services page lists every service with a short description and its price.",
+        "Each service has a detail view and a button to book it.",
+        "The page is easy to use on a mobile phone."
+      ],
+      "sprints": [],
+      "portfolio_id": "US-13",
+      "points": 3,
+      "tasks": [
+        "Define the service data (name, description, price, category)",
+        "Build the services listing page",
+        "Build the service detail view",
+        "Link each service to booking",
+        "Test the layout on mobile and desktop"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B10",
+      "title": "Upload Verification Documents",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "story": "As an international student, I want to upload my academic and identity documents securely so that my application can be verified.",
+      "acceptance_criteria": [
+        "I can upload PDF, JPG or PNG files up to the set size limit. Other files are rejected with a clear message.",
+        "Only I and the administrator can open my documents.",
+        "After uploading, each document shows the status \"Pending review\"."
+      ],
+      "sprints": [],
+      "portfolio_id": "US-14",
+      "points": 8,
+      "tasks": [
+        "Build the upload screen",
+        "Validate file type and size",
+        "Store files in private storage",
+        "Restrict access to the owner and the administrator",
+        "Show the document status on the dashboard",
+        "Test valid and invalid uploads and the access rules"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B11",
+      "title": "View Student Dashboard",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha"
+      ],
+      "story": "As an international student, I want to view my dashboard so that I can access all my information and services from one place.",
+      "acceptance_criteria": [
+        "The dashboard shows my profile summary, application status, bookings, notifications and uploaded documents.",
+        "The data comes from the backend and is up to date when the page loads.",
+        "Only I can see my dashboard. Anyone who is not logged in is sent to the login page."
+      ],
+      "sprints": [
+        33,
+        34,
+        35
+      ],
+      "portfolio_id": "US-15",
+      "points": 8,
+      "tasks": [
+        "Build the dashboard layout",
+        "Add the bookings, appointments and notifications panels",
+        "Connect the dashboard to the backend APIs",
+        "Protect the route so that only logged-in users can open it",
+        "Test with real account data"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B12",
+      "title": "Track Application Status",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want to track my application progress so that I always know what stage my application is in.",
+      "acceptance_criteria": [
+        "Each application shows one of these statuses: Submitted, Under review, Action required or Approved.",
+        "When the administrator changes a status, my dashboard shows the change and I am notified.",
+        "I can see the history of status changes with dates."
+      ],
+      "sprints": [
+        36
+      ],
+      "portfolio_id": "US-16",
+      "points": 5,
+      "tasks": [
+        "Define the status values and the data model",
+        "Let the administrator update a status",
+        "Show a status timeline to the student",
+        "Send a notification when the status changes",
+        "Test every status change"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B13",
+      "title": "Book a NavigSA Service",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha"
+      ],
+      "story": "As an international student, I want to book a NavigSA service so that I can receive assistance with my study journey.",
+      "acceptance_criteria": [
+        "I can choose a service and a date and time, then submit a booking.",
+        "Dates in the past cannot be selected.",
+        "I receive a confirmation, and the booking appears on my dashboard."
+      ],
+      "sprints": [],
+      "portfolio_id": "US-17",
+      "points": 8,
+      "tasks": [
+        "Build the booking form",
+        "Create the booking API and validation",
+        "Send a booking confirmation",
+        "Show bookings on the dashboard",
+        "Test valid and invalid bookings"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B20",
+      "title": "Receive Notifications and Reminders",
+      "type": "User story",
+      "priority": "Medium",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want to receive reminders and notifications so that I never miss important application deadlines or updates.",
+      "acceptance_criteria": [
+        "I am notified when my application status changes or when a booking is confirmed.",
+        "I receive a reminder before an upcoming deadline or appointment.",
+        "I can mark notifications as read."
+      ],
+      "sprints": [],
+      "portfolio_id": "US-18",
+      "points": 5,
+      "tasks": [
+        "Create the notification data model",
+        "Add the triggers for status changes, bookings and deadlines",
+        "Build the in-app notification list",
+        "Add email delivery",
+        "Test each trigger"
+      ],
+      "moscow": "Should"
+    },
+    {
+      "id": "B14",
+      "title": "Register as a Service Provider",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As a service provider, I want to register on NavigSA so that I can offer my services to international students.",
+      "acceptance_criteria": [
+        "I can register with my business details and upload my accreditation documents.",
+        "After registering, my account status is \"Pending verification\".",
+        "My services are not shown to students until I am verified."
+      ],
+      "sprints": [
+        23
+      ],
+      "portfolio_id": "US-19",
+      "points": 5,
+      "tasks": [
+        "Build the provider onboarding form",
+        "Add the accreditation document upload",
+        "Create the provider registration API",
+        "Hide unverified providers from the public pages",
+        "Test the registration flow"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B15",
+      "title": "Become a Verified Service Provider",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As a service provider, I want to become verified so that students trust the services I provide.",
+      "acceptance_criteria": [
+        "The verification criteria are documented.",
+        "The administrator can approve or reject a provider and must give a reason for a rejection.",
+        "Approved providers show a \"Verified\" badge, and every provider is notified of the decision."
+      ],
+      "sprints": [
+        26
+      ],
+      "portfolio_id": "US-20",
+      "points": 5,
+      "tasks": [
+        "Define the verification requirements",
+        "Build the administrator review screen",
+        "Add the \"Verified\" badge to provider listings",
+        "Notify providers of the outcome",
+        "Test approval and rejection"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B16",
+      "title": "Administrator Manages Users",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala"
+      ],
+      "story": "As an administrator, I want to manage students and service providers so that I can maintain a secure and trusted platform.",
+      "acceptance_criteria": [
+        "The administrator can search and view all students and providers.",
+        "The administrator can suspend and reactivate an account.",
+        "Only users with the admin role can open these pages, and every admin action is logged."
+      ],
+      "sprints": [],
+      "portfolio_id": "US-21",
+      "points": 8,
+      "tasks": [
+        "Add the admin role and its access control",
+        "Build the user list with search",
+        "Add suspend and reactivate actions",
+        "Record admin actions in an audit log",
+        "Test that non-admin users cannot access the pages"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B17",
+      "title": "Submit Reviews",
+      "type": "User story",
+      "priority": "Medium",
+      "members": [
+        "Marc Kabala",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want to leave a review after receiving a service so that I can share my experience with other students.",
+      "acceptance_criteria": [
+        "Only a student with a completed booking can review that service.",
+        "A review has a rating from 1 to 5 and a comment, and there is one review per booking.",
+        "Reviews follow the agreed review rules and can be removed by the administrator if they are abusive."
+      ],
+      "sprints": [
+        24,
+        27
+      ],
+      "portfolio_id": "US-22",
+      "points": 3,
+      "tasks": [
+        "Define the review and refund rules",
+        "Build the review form",
+        "Check review eligibility in the API",
+        "Add admin moderation",
+        "Show reviews on the service pages"
+      ],
+      "moscow": "Should"
+    },
+    {
+      "id": "B18",
+      "title": "View Testimonials",
+      "type": "User story",
+      "priority": "Medium",
+      "members": [
+        "Marc Kabala",
+        "Witcha Francisco"
+      ],
+      "story": "As an international student, I want to read testimonials from previous users so that I can make informed decisions before using NavigSA.",
+      "acceptance_criteria": [
+        "The home page shows testimonials from verified users only.",
+        "The administrator approves each testimonial before it is published.",
+        "A testimonial shows the user's name and country only if they have given consent."
+      ],
+      "sprints": [],
+      "portfolio_id": "US-23",
+      "points": 2,
+      "tasks": [
+        "Build the testimonials section",
+        "Add the admin approval step",
+        "Record user consent",
+        "Test publishing and hiding testimonials"
+      ],
+      "moscow": "Should"
+    },
+    {
+      "id": "B19",
+      "title": "Access Multilingual Content",
+      "type": "User story",
+      "priority": "Medium",
+      "members": [
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "story": "As a French- or Portuguese-speaking international student, I want to read information in my preferred language so that I clearly understand every step of the application process.",
+      "acceptance_criteria": [
+        "A language switcher offers English, French and Portuguese, and remembers my choice.",
+        "All main pages and messages are translated.",
+        "A fluent speaker has reviewed the translations for accuracy."
+      ],
+      "sprints": [
+        46,
+        47
+      ],
+      "portfolio_id": "US-24",
+      "points": 8,
+      "tasks": [
+        "Design the language switcher",
+        "Set up translation files",
+        "Translate the page content into French and Portuguese",
+        "Have a fluent speaker review the translations",
+        "Test every page in each language"
+      ],
+      "moscow": "Should"
+    },
+    {
+      "id": "B21",
+      "title": "Learn Through Educational Content",
+      "type": "User story",
+      "priority": "Medium",
+      "members": [
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "story": "As an international student, I want access to educational guides and videos so that I understand the SAQA, visa, university application, and accommodation processes before I begin my journey.",
+      "acceptance_criteria": [
+        "There are guides for SAQA evaluation, study visas, university applications and accommodation.",
+        "Each guide is available in English, French and Portuguese.",
+        "Each guide lists its official sources and the date it was last reviewed."
+      ],
+      "sprints": [
+        48
+      ],
+      "portfolio_id": "US-25",
+      "points": 5,
+      "tasks": [
+        "Research the official processes and sources",
+        "Write the guides",
+        "Produce the short explainer videos",
+        "Translate the guides",
+        "Publish the guides on the platform"
+      ],
+      "moscow": "Should"
+    },
+    {
+      "id": "B24",
+      "title": "Protect Student Information (Operations & Compliance)",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco"
+      ],
+      "story": "As an international student, I want my personal information and documents to be stored securely so that my privacy is protected and I can trust NavigSA.",
+      "acceptance_criteria": [
+        "A privacy policy that follows the Protection of Personal Information Act (POPIA) is published on the site.",
+        "The site uses HTTPS, passwords are hashed and documents can only be opened by authorised users.",
+        "The procedures for handling data and responding to security incidents are documented."
+      ],
+      "sprints": [
+        19,
+        43,
+        44,
+        45
+      ],
+      "portfolio_id": "US-26",
+      "points": 8,
+      "tasks": [
+        "Design the platform's security structure",
+        "Design and implement the database and models",
+        "Prepare secure backend APIs",
+        "Review the POPIA, privacy and compliance requirements",
+        "Review the technical security measures",
+        "Document the operational and security procedures"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B25",
+      "title": "Use a Reliable Platform (Testing & Quality Assurance)",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want the NavigSA platform to work reliably so that I can complete my applications without errors or interruptions.",
+      "acceptance_criteria": [
+        "Test cases based on the acceptance criteria of every Must story have been run.",
+        "Every defect is logged, and all critical defects are fixed before launch.",
+        "User acceptance testing has been done with sample users and their feedback recorded."
+      ],
+      "sprints": [
+        37,
+        39,
+        40,
+        41,
+        42,
+        51,
+        52
+      ],
+      "portfolio_id": "US-27",
+      "points": 8,
+      "tasks": [
+        "Write the test plan and test cases",
+        "Test the main student features",
+        "Test the frontend and backend working together",
+        "Run user acceptance testing with sample users",
+        "Fix the defects found",
+        "Run a final test on the live site"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B26",
+      "title": "Access the Live NavigSA Platform (Deployment & Launch)",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want the NavigSA platform to be available online so that I can access its services from anywhere.",
+      "acceptance_criteria": [
+        "The website and the backend are live on a public HTTPS address.",
+        "A smoke test of registration, login and the dashboard passes after every deployment.",
+        "The website link has been submitted as required."
+      ],
+      "sprints": [
+        49
+      ],
+      "portfolio_id": "US-28",
+      "points": 5,
+      "tasks": [
+        "Deploy the backend and fix any deployment issues",
+        "Deploy the frontend",
+        "Configure the domain and HTTPS",
+        "Run the smoke test",
+        "Submit the website link"
+      ],
+      "moscow": "Must"
+    },
+    {
+      "id": "B29",
+      "title": "Store My Information Securely (Backend & Database)",
+      "type": "User story",
+      "priority": "High",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want my information to be stored securely so that I can safely use NavigSA's services. One story delivered through four tasks across Sprints 29-32 (Sprint Week 8): backend setup, database design, database models and backend APIs.",
+      "acceptance_criteria": [
+        "Student and provider data is saved in the database and is still there after the server restarts.",
+        "Passwords are stored only as hashes, and every API call that reads or writes personal data requires a logged-in user.",
+        "The backend APIs return clear errors for invalid or missing data and have been tested."
+      ],
+      "sprints": [
+        21,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "portfolio_id": "US-29",
+      "points": 8,
+      "tasks": [
+        "Task 1 (Sprint 29): Set up the backend project",
+        "Task 2 (Sprint 30): Design the database",
+        "Task 3 (Sprint 31): Implement the database models",
+        "Task 4 (Sprint 32): Prepare the backend APIs"
+      ],
+      "moscow": "Must"
+    }
+  ],
+  "note": "Rebuilt from the live Trello board NAVIGSA (Latest) on 29 October 2026. portfolio_id matches the story IDs on the portfolio website. Sprint-to-backlog links are taken from each sprint card's user story and should be confirmed by the team."
+}
