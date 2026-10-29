@@ -71,3 +71,6 @@ footer{margin-top:48px;color:var(--muted);font-size:.85rem}
 details{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:8px 16px;margin:10px 0}
 summary{cursor:pointer;font-weight:600}
 .skip{position:absolute;left:-999px}.skip:focus{left:8px;top:8px;background:var(--surface);padding:6px 10px;z-index:9}
+
+figure{margin:14px 0}figure img{max-width:100%;height:auto;border:1px solid var(--line);border-radius:8px;display:block}figcaption{color:var(--muted);font-size:.88rem;margin-top:6px}
+.shots{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px}
