@@ -249,7 +249,8 @@
       "backlog_item": "B28",
       "portfolio_backlog_id": "US-08",
       "portfolio_backlog_ids": [
-        "US-08"
+        "US-08",
+        "US-01"
       ]
     },
     {
@@ -268,7 +269,8 @@
       "portfolio_backlog_id": null,
       "portfolio_backlog_ids": [
         "US-05",
-        "US-07"
+        "US-07",
+        "US-01"
       ]
     },
     {
@@ -586,7 +588,8 @@
       "backlog_item": "B11",
       "portfolio_backlog_id": "US-15",
       "portfolio_backlog_ids": [
-        "US-15"
+        "US-15",
+        "US-12"
       ]
     },
     {
@@ -963,7 +966,10 @@
         "Each member's role and responsibilities are written down in the team charter.",
         "The team has agreed on communication channels and meeting times, and recorded them."
       ],
-      "sprints": [],
+      "sprints": [
+        14,
+        15
+      ],
       "portfolio_id": "US-01",
       "points": 3,
       "tasks": [
@@ -1302,7 +1308,9 @@
         "I can edit and save my details, and invalid values are rejected with a clear message.",
         "The saved changes show on my dashboard straight away."
       ],
-      "sprints": [],
+      "sprints": [
+        33
+      ],
       "portfolio_id": "US-12",
       "points": 3,
       "tasks": [
