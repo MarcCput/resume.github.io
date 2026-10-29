@@ -14,7 +14,10 @@
       "dates": "14 Jul 2026",
       "story": "As a project team, we want to define the NavigSA business concept, services and value proposition so that we have a clear and well-justified idea to present and build.",
       "backlog_item": "B2",
-      "portfolio_backlog_id": "US-02"
+      "portfolio_backlog_id": "US-02",
+      "portfolio_backlog_ids": [
+        "US-02"
+      ]
     },
     {
       "sprint": 2,
@@ -30,7 +33,10 @@
       "dates": "14 Jul - 15 Jul 2026",
       "story": "As a project team, we want to understand our customer so that NavigSA provides services that address their actual needs.",
       "backlog_item": "B2",
-      "portfolio_backlog_id": "US-02"
+      "portfolio_backlog_id": "US-02",
+      "portfolio_backlog_ids": [
+        "US-02"
+      ]
     },
     {
       "sprint": 3,
@@ -43,7 +49,10 @@
       "dates": "16 Jul 2026",
       "story": "Enabler task: to get early feedback on the project, the team will present the NavigSA business concept to the project supervisor.",
       "backlog_item": "B27",
-      "portfolio_backlog_id": "US-07"
+      "portfolio_backlog_id": "US-07",
+      "portfolio_backlog_ids": [
+        "US-07"
+      ]
     },
     {
       "sprint": 4,
@@ -59,7 +68,10 @@
       "dates": "17 Jul 2026",
       "story": "As a project team, we want to clearly communicate why NavigSA should be trusted so that international students can confidently use the platform.",
       "backlog_item": "B2",
-      "portfolio_backlog_id": "US-02"
+      "portfolio_backlog_id": "US-02",
+      "portfolio_backlog_ids": [
+        "US-02"
+      ]
     },
     {
       "sprint": 5,
@@ -75,7 +87,10 @@
       "dates": "20 Jul - 21 Jul 2026",
       "story": "As an international student, I want NavigSA to understand the challenges I face when studying in South Africa so that the platform provides relevant services.",
       "backlog_item": "B3",
-      "portfolio_backlog_id": "US-03"
+      "portfolio_backlog_id": "US-03",
+      "portfolio_backlog_ids": [
+        "US-03"
+      ]
     },
     {
       "sprint": 6,
@@ -91,7 +106,10 @@
       "dates": "22 Jul 2026",
       "story": "As an international student, I want NavigSA to understand how frequently my problems occur so that the platform addresses problems that genuinely need solving.",
       "backlog_item": "B3",
-      "portfolio_backlog_id": "US-03"
+      "portfolio_backlog_id": "US-03",
+      "portfolio_backlog_ids": [
+        "US-03"
+      ]
     },
     {
       "sprint": 7,
@@ -107,7 +125,10 @@
       "dates": "23 Jul 2026",
       "story": "As an international student, I want NavigSA to use real feedback from students so that the services address actual pain points.",
       "backlog_item": "B3",
-      "portfolio_backlog_id": "US-03"
+      "portfolio_backlog_id": "US-03",
+      "portfolio_backlog_ids": [
+        "US-03"
+      ]
     },
     {
       "sprint": 8,
@@ -123,7 +144,10 @@
       "dates": "24 Jul 2026",
       "story": "As a project supervisor, I want to review the completed NavigSA business concept so that I can assess the team's progress.",
       "backlog_item": "B2",
-      "portfolio_backlog_id": "US-02"
+      "portfolio_backlog_id": "US-02",
+      "portfolio_backlog_ids": [
+        "US-02"
+      ]
     },
     {
       "sprint": 9,
@@ -137,7 +161,10 @@
       "dates": "28 Jul - 29 Jul 2026",
       "story": "As an international student, I want NavigSA to have a clear and easy-to-use interface so that I can find the services and information I need.",
       "backlog_item": "B5",
-      "portfolio_backlog_id": "US-09"
+      "portfolio_backlog_id": "US-09",
+      "portfolio_backlog_ids": [
+        "US-09"
+      ]
     },
     {
       "sprint": 10,
@@ -150,7 +177,10 @@
       "dates": "28 Jul - 29 Jul 2026",
       "story": "As an international student, I want a simple registration and verification process so that I can safely create my NavigSA account.",
       "backlog_item": "B5",
-      "portfolio_backlog_id": "US-09"
+      "portfolio_backlog_id": "US-09",
+      "portfolio_backlog_ids": [
+        "US-09"
+      ]
     },
     {
       "sprint": 11,
@@ -163,7 +193,10 @@
       "dates": "30 Jul 2026",
       "story": "As a service provider, I want a clear onboarding process so that I can register and offer services through NavigSA.",
       "backlog_item": "B5",
-      "portfolio_backlog_id": "US-09"
+      "portfolio_backlog_id": "US-09",
+      "portfolio_backlog_ids": [
+        "US-09"
+      ]
     },
     {
       "sprint": 12,
@@ -176,7 +209,10 @@
       "dates": "31 Jul 2026",
       "story": "As a French or Portuguese-speaking international student, I want NavigSA information to be available in my preferred language so that I can understand the services.",
       "backlog_item": "B5",
-      "portfolio_backlog_id": "US-09"
+      "portfolio_backlog_id": "US-09",
+      "portfolio_backlog_ids": [
+        "US-09"
+      ]
     },
     {
       "sprint": 13,
@@ -192,7 +228,10 @@
       "dates": "4 Aug 2026",
       "story": "As an international student, I want to see a clear visual prototype of NavigSA so that I can understand how the platform will work. Present the completed website prototype and review the designed interface.",
       "backlog_item": "B5",
-      "portfolio_backlog_id": "US-09"
+      "portfolio_backlog_id": "US-09",
+      "portfolio_backlog_ids": [
+        "US-09"
+      ]
     },
     {
       "sprint": 14,
@@ -208,7 +247,10 @@
       "dates": "4 Aug - 5 Aug 2026",
       "story": "Enabler task: to track the team's work and progress, the team will keep its sprint boards and Agile documentation organised and up to date.",
       "backlog_item": "B28",
-      "portfolio_backlog_id": "US-08"
+      "portfolio_backlog_id": "US-08",
+      "portfolio_backlog_ids": [
+        "US-08"
+      ]
     },
     {
       "sprint": 15,
@@ -223,7 +265,11 @@
       "dates": "5 Aug - 6 Aug 2026",
       "story": "As an international student, I want NavigSA to have a consistent and professional brand so that I can recognise and trust the platform.",
       "backlog_item": null,
-      "portfolio_backlog_id": null
+      "portfolio_backlog_id": null,
+      "portfolio_backlog_ids": [
+        "US-05",
+        "US-07"
+      ]
     },
     {
       "sprint": 16,
@@ -239,7 +285,10 @@
       "dates": "6 Aug - 7 Aug 2026",
       "story": "Enabler task: to record project participation and progress, the team will complete and submit the July monthly project report.",
       "backlog_item": "B28",
-      "portfolio_backlog_id": "US-08"
+      "portfolio_backlog_id": "US-08",
+      "portfolio_backlog_ids": [
+        "US-08"
+      ]
     },
     {
       "sprint": 17,
@@ -253,7 +302,8 @@
       "dates": "11 Aug 2026",
       "story": "As an international student, I want NavigSA to be built on a reliable technical foundation so that I can use the platform securely.",
       "backlog_item": null,
-      "portfolio_backlog_id": null
+      "portfolio_backlog_id": null,
+      "portfolio_backlog_ids": []
     },
     {
       "sprint": 18,
@@ -268,7 +318,8 @@
       "dates": "11 Aug - 12 Aug 2026",
       "story": "As an international student, I want NavigSA's services to communicate reliably so that my information and requests are processed correctly.",
       "backlog_item": null,
-      "portfolio_backlog_id": null
+      "portfolio_backlog_id": null,
+      "portfolio_backlog_ids": []
     },
     {
       "sprint": 19,
@@ -282,7 +333,10 @@
       "dates": "13 Aug 2026",
       "story": "As an international student, I want my personal information to be protected so that I can trust NavigSA with my documents and details.",
       "backlog_item": "B24",
-      "portfolio_backlog_id": "US-26"
+      "portfolio_backlog_id": "US-26",
+      "portfolio_backlog_ids": [
+        "US-26"
+      ]
     },
     {
       "sprint": 20,
@@ -298,7 +352,10 @@
       "dates": "13 Aug 2026",
       "story": "Enabler task: to keep the platform and marketing materials consistent and professional, the team will create and present the NavigSA Brand Guide.",
       "backlog_item": null,
-      "portfolio_backlog_id": null
+      "portfolio_backlog_id": null,
+      "portfolio_backlog_ids": [
+        "US-05"
+      ]
     },
     {
       "sprint": 21,
@@ -311,7 +368,10 @@
       "dates": "14 Aug - 18 Aug 2026",
       "story": "As an international student, I want my account and information to be stored securely so that I can use NavigSA services.",
       "backlog_item": "B29",
-      "portfolio_backlog_id": "US-29"
+      "portfolio_backlog_id": "US-29",
+      "portfolio_backlog_ids": [
+        "US-29"
+      ]
     },
     {
       "sprint": 22,
@@ -326,7 +386,10 @@
       "dates": "18 Aug - 19 Aug 2026",
       "story": "As an international student, I want to register for a NavigSA account so that I can access the platform's services.",
       "backlog_item": "B7",
-      "portfolio_backlog_id": "US-10"
+      "portfolio_backlog_id": "US-10",
+      "portfolio_backlog_ids": [
+        "US-10"
+      ]
     },
     {
       "sprint": 23,
@@ -341,7 +404,11 @@
       "dates": "19 Aug - 20 Aug 2026",
       "story": "As a service provider, I want to register on NavigSA so that I can offer services to international students.",
       "backlog_item": "B14",
-      "portfolio_backlog_id": "US-19"
+      "portfolio_backlog_id": "US-19",
+      "portfolio_backlog_ids": [
+        "US-19",
+        "US-20"
+      ]
     },
     {
       "sprint": 24,
@@ -357,7 +424,12 @@
       "dates": "20 Aug - 21 Aug 2026",
       "story": "As an international student, I want to submit reviews and access service information so that I can make informed decisions about NavigSA services.",
       "backlog_item": "B17",
-      "portfolio_backlog_id": "US-22"
+      "portfolio_backlog_id": "US-22",
+      "portfolio_backlog_ids": [
+        "US-22",
+        "US-13",
+        "US-23"
+      ]
     },
     {
       "sprint": 25,
@@ -373,7 +445,10 @@
       "dates": "25 Aug 2026",
       "story": "As an international student, I want to log into my account securely so that only I can access my information.",
       "backlog_item": "B8",
-      "portfolio_backlog_id": "US-11"
+      "portfolio_backlog_id": "US-11",
+      "portfolio_backlog_ids": [
+        "US-11"
+      ]
     },
     {
       "sprint": 26,
@@ -387,7 +462,10 @@
       "dates": "25 Aug - 26 Aug 2026",
       "story": "As an international student, I want providers to be verified so that I can trust the services offered through NavigSA.",
       "backlog_item": "B15",
-      "portfolio_backlog_id": "US-20"
+      "portfolio_backlog_id": "US-20",
+      "portfolio_backlog_ids": [
+        "US-20"
+      ]
     },
     {
       "sprint": 27,
@@ -403,7 +481,11 @@
       "dates": "25 Aug - 27 Aug 2026",
       "story": "As an international student, I want to see genuine reviews and have protection when something goes wrong so that I can use NavigSA with confidence.",
       "backlog_item": "B17",
-      "portfolio_backlog_id": "US-22"
+      "portfolio_backlog_id": "US-22",
+      "portfolio_backlog_ids": [
+        "US-22",
+        "US-23"
+      ]
     },
     {
       "sprint": 28,
@@ -416,7 +498,10 @@
       "dates": "25 Aug - 28 Aug 2026",
       "story": "As an international student, I want NavigSA's backend to be available online so that I can access its services through the website.",
       "backlog_item": "B29",
-      "portfolio_backlog_id": "US-29"
+      "portfolio_backlog_id": "US-29",
+      "portfolio_backlog_ids": [
+        "US-29"
+      ]
     },
     {
       "sprint": 29,
@@ -429,7 +514,10 @@
       "dates": "1 Sep 2026",
       "story": "Story: Store My Information Securely (Backend & Database). Set up the backend project: create the project, configure the environment and install the dependencies.",
       "backlog_item": "B29",
-      "portfolio_backlog_id": "US-29"
+      "portfolio_backlog_id": "US-29",
+      "portfolio_backlog_ids": [
+        "US-29"
+      ]
     },
     {
       "sprint": 30,
@@ -443,7 +531,10 @@
       "dates": "2 Sep 2026",
       "story": "Story: Store My Information Securely (Backend & Database). Design the database: tables, relationships and the data that is stored for students and providers.",
       "backlog_item": "B29",
-      "portfolio_backlog_id": "US-29"
+      "portfolio_backlog_id": "US-29",
+      "portfolio_backlog_ids": [
+        "US-29"
+      ]
     },
     {
       "sprint": 31,
@@ -458,7 +549,10 @@
       "dates": "3 Sep 2026",
       "story": "Story: Store My Information Securely (Backend & Database). Implement the database models from the approved design.",
       "backlog_item": "B29",
-      "portfolio_backlog_id": "US-29"
+      "portfolio_backlog_id": "US-29",
+      "portfolio_backlog_ids": [
+        "US-29"
+      ]
     },
     {
       "sprint": 32,
@@ -473,7 +567,10 @@
       "dates": "4 Sep 2026",
       "story": "Story: Store My Information Securely (Backend & Database). Prepare the secure backend APIs that read and write the stored data.",
       "backlog_item": "B29",
-      "portfolio_backlog_id": "US-29"
+      "portfolio_backlog_id": "US-29",
+      "portfolio_backlog_ids": [
+        "US-29"
+      ]
     },
     {
       "sprint": 33,
@@ -487,7 +584,10 @@
       "dates": "7 Sep - 8 Sep 2026",
       "story": "As an international student, I want to access all my information and NavigSA services from one dashboard so that I can manage everything in one place. Develop and integrate the student dashboard.",
       "backlog_item": "B11",
-      "portfolio_backlog_id": "US-15"
+      "portfolio_backlog_id": "US-15",
+      "portfolio_backlog_ids": [
+        "US-15"
+      ]
     },
     {
       "sprint": 34,
@@ -502,7 +602,12 @@
       "dates": "8 Sep - 9 Sep 2026",
       "story": "As an international student, I want my bookings, appointments and notifications visible on my dashboard so that I can keep track of my NavigSA activities.",
       "backlog_item": "B11",
-      "portfolio_backlog_id": "US-15"
+      "portfolio_backlog_id": "US-15",
+      "portfolio_backlog_ids": [
+        "US-15",
+        "US-17",
+        "US-18"
+      ]
     },
     {
       "sprint": 35,
@@ -516,7 +621,10 @@
       "dates": "9 Sep - 10 Sep 2026",
       "story": "As an international student, I want my dashboard connected to the NavigSA backend so that the information displayed is accurate and up to date.",
       "backlog_item": "B11",
-      "portfolio_backlog_id": "US-15"
+      "portfolio_backlog_id": "US-15",
+      "portfolio_backlog_ids": [
+        "US-15"
+      ]
     },
     {
       "sprint": 36,
@@ -531,7 +639,10 @@
       "dates": "10 Sep - 11 Sep 2026",
       "story": "As an international student, I want to track my application progress so that I know what stage my application is at.",
       "backlog_item": "B12",
-      "portfolio_backlog_id": "US-16"
+      "portfolio_backlog_id": "US-16",
+      "portfolio_backlog_ids": [
+        "US-16"
+      ]
     },
     {
       "sprint": 37,
@@ -547,7 +658,10 @@
       "dates": "14 Sep - 15 Sep 2026",
       "story": "As an international student, I want the NavigSA platform to work reliably so that I can complete my applications and access services without errors. Begin testing and identify defects.",
       "backlog_item": "B25",
-      "portfolio_backlog_id": "US-27"
+      "portfolio_backlog_id": "US-27",
+      "portfolio_backlog_ids": [
+        "US-27"
+      ]
     },
     {
       "sprint": 38,
@@ -563,7 +677,10 @@
       "dates": "16 Sep 2026",
       "story": "As an international student, I want NavigSA's backend to work correctly and securely so that I can use the platform's services with confidence. Present the completed backend to the project supervisor for review.",
       "backlog_item": "B27",
-      "portfolio_backlog_id": "US-07"
+      "portfolio_backlog_id": "US-07",
+      "portfolio_backlog_ids": [
+        "US-07"
+      ]
     },
     {
       "sprint": 39,
@@ -579,7 +696,13 @@
       "dates": "16 Sep - 17 Sep 2026",
       "story": "As an international student, I want my documents and services to work correctly so that I can use NavigSA without problems. Continue testing the main student functionality.",
       "backlog_item": "B25",
-      "portfolio_backlog_id": "US-27"
+      "portfolio_backlog_id": "US-27",
+      "portfolio_backlog_ids": [
+        "US-27",
+        "US-14",
+        "US-17",
+        "US-21"
+      ]
     },
     {
       "sprint": 40,
@@ -595,7 +718,10 @@
       "dates": "16 Sep - 18 Sep 2026",
       "story": "As an international student, I want all platform features to work together so that I can complete my tasks without errors. Test remaining functionality and frontend/backend integration.",
       "backlog_item": "B25",
-      "portfolio_backlog_id": "US-27"
+      "portfolio_backlog_id": "US-27",
+      "portfolio_backlog_ids": [
+        "US-27"
+      ]
     },
     {
       "sprint": 41,
@@ -611,7 +737,10 @@
       "dates": "22 Sep 2026",
       "story": "As an international student, I want NavigSA to be tested by real users so that the platform is easy to use and reliable. Conduct user acceptance testing with sample users.",
       "backlog_item": "B25",
-      "portfolio_backlog_id": "US-27"
+      "portfolio_backlog_id": "US-27",
+      "portfolio_backlog_ids": [
+        "US-27"
+      ]
     },
     {
       "sprint": 42,
@@ -624,7 +753,10 @@
       "dates": "22 Sep - 23 Sep 2026",
       "story": "As an international student, I want problems found during testing to be fixed so that I can use NavigSA without errors. Resolve defects identified during testing.",
       "backlog_item": "B25",
-      "portfolio_backlog_id": "US-27"
+      "portfolio_backlog_id": "US-27",
+      "portfolio_backlog_ids": [
+        "US-27"
+      ]
     },
     {
       "sprint": 43,
@@ -640,7 +772,10 @@
       "dates": "24 Sep 2026",
       "story": "As an international student, I want my personal information and documents to be stored securely so that my privacy is protected. Review privacy, security and compliance requirements.",
       "backlog_item": "B24",
-      "portfolio_backlog_id": "US-26"
+      "portfolio_backlog_id": "US-26",
+      "portfolio_backlog_ids": [
+        "US-26"
+      ]
     },
     {
       "sprint": 44,
@@ -654,7 +789,10 @@
       "dates": "25 Sep 2026",
       "story": "As an international student, I want my account and documents protected from unauthorised access so that my information remains secure. Review the technical security measures.",
       "backlog_item": "B24",
-      "portfolio_backlog_id": "US-26"
+      "portfolio_backlog_id": "US-26",
+      "portfolio_backlog_ids": [
+        "US-26"
+      ]
     },
     {
       "sprint": 45,
@@ -670,7 +808,10 @@
       "dates": "25 Sep - 29 Sep 2026",
       "story": "As an international student, I want NavigSA to maintain accurate and secure information so that I can rely on the platform. Complete operational and security procedures.",
       "backlog_item": "B24",
-      "portfolio_backlog_id": "US-26"
+      "portfolio_backlog_id": "US-26",
+      "portfolio_backlog_ids": [
+        "US-26"
+      ]
     },
     {
       "sprint": 46,
@@ -686,7 +827,10 @@
       "dates": "29 Sep - 30 Sep 2026",
       "story": "As a French or Portuguese-speaking international student, I want to access NavigSA information in my preferred language so that I can understand the services available to me.",
       "backlog_item": "B19",
-      "portfolio_backlog_id": "US-24"
+      "portfolio_backlog_id": "US-24",
+      "portfolio_backlog_ids": [
+        "US-24"
+      ]
     },
     {
       "sprint": 47,
@@ -700,7 +844,10 @@
       "dates": "1 Oct 2026",
       "story": "As a French or Portuguese-speaking international student, I want translated information to be accurate so that I do not misunderstand important NavigSA information. Review and test translations.",
       "backlog_item": "B19",
-      "portfolio_backlog_id": "US-24"
+      "portfolio_backlog_id": "US-24",
+      "portfolio_backlog_ids": [
+        "US-24"
+      ]
     },
     {
       "sprint": 48,
@@ -716,7 +863,10 @@
       "dates": "2 Oct 2026",
       "story": "As an international student, I want access to educational guides and videos about studying in South Africa so that I can understand the processes I need to follow.",
       "backlog_item": "B21",
-      "portfolio_backlog_id": "US-25"
+      "portfolio_backlog_id": "US-25",
+      "portfolio_backlog_ids": [
+        "US-25"
+      ]
     },
     {
       "sprint": 49,
@@ -732,7 +882,10 @@
       "dates": "6 Oct 2026",
       "story": "As an international student, I want NavigSA to be available online so that I can access the platform from anywhere. Finalise the live website and prepare the website submission.",
       "backlog_item": "B26",
-      "portfolio_backlog_id": "US-28"
+      "portfolio_backlog_id": "US-28",
+      "portfolio_backlog_ids": [
+        "US-28"
+      ]
     },
     {
       "sprint": 50,
@@ -748,7 +901,10 @@
       "dates": "7 Oct 2026",
       "story": "Enabler task: to record the team's progress and participation, the team will complete and submit the required monthly project reports.",
       "backlog_item": "B28",
-      "portfolio_backlog_id": "US-08"
+      "portfolio_backlog_id": "US-08",
+      "portfolio_backlog_ids": [
+        "US-08"
+      ]
     },
     {
       "sprint": 51,
@@ -764,7 +920,10 @@
       "dates": "8 Oct 2026",
       "story": "As an international student, I want the NavigSA platform to work reliably so that I can use the website without errors. Conduct final testing of the fully functional live website.",
       "backlog_item": "B25",
-      "portfolio_backlog_id": "US-27"
+      "portfolio_backlog_id": "US-27",
+      "portfolio_backlog_ids": [
+        "US-27"
+      ]
     },
     {
       "sprint": 52,
@@ -780,7 +939,10 @@
       "dates": "9 Oct 2026",
       "story": "As an international student, I want every part of NavigSA to function correctly so that I can use the platform confidently. Complete final testing and address remaining issues on the live platform.",
       "backlog_item": "B25",
-      "portfolio_backlog_id": "US-27"
+      "portfolio_backlog_id": "US-27",
+      "portfolio_backlog_ids": [
+        "US-27"
+      ]
     }
   ],
   "backlog": [
@@ -925,7 +1087,10 @@
         "NavigSA social media pages are live and linked from the website.",
         "Enquiries from marketing channels are recorded so that we can see which channels work."
       ],
-      "sprints": [],
+      "sprints": [
+        15,
+        20
+      ],
       "portfolio_id": "US-05",
       "points": 5,
       "tasks": [
@@ -984,7 +1149,8 @@
       ],
       "sprints": [
         3,
-        38
+        38,
+        15
       ],
       "portfolio_id": "US-07",
       "points": 3,
@@ -1162,7 +1328,9 @@
         "Each service has a detail view and a button to book it.",
         "The page is easy to use on a mobile phone."
       ],
-      "sprints": [],
+      "sprints": [
+        24
+      ],
       "portfolio_id": "US-13",
       "points": 3,
       "tasks": [
@@ -1190,7 +1358,9 @@
         "Only I and the administrator can open my documents.",
         "After uploading, each document shows the status \"Pending review\"."
       ],
-      "sprints": [],
+      "sprints": [
+        39
+      ],
       "portfolio_id": "US-14",
       "points": 8,
       "tasks": [
@@ -1279,7 +1449,10 @@
         "Dates in the past cannot be selected.",
         "I receive a confirmation, and the booking appears on my dashboard."
       ],
-      "sprints": [],
+      "sprints": [
+        34,
+        39
+      ],
       "portfolio_id": "US-17",
       "points": 8,
       "tasks": [
@@ -1308,7 +1481,9 @@
         "I receive a reminder before an upcoming deadline or appointment.",
         "I can mark notifications as read."
       ],
-      "sprints": [],
+      "sprints": [
+        34
+      ],
       "portfolio_id": "US-18",
       "points": 5,
       "tasks": [
@@ -1368,7 +1543,8 @@
         "Approved providers show a \"Verified\" badge, and every provider is notified of the decision."
       ],
       "sprints": [
-        26
+        26,
+        23
       ],
       "portfolio_id": "US-20",
       "points": 5,
@@ -1395,7 +1571,9 @@
         "The administrator can suspend and reactivate an account.",
         "Only users with the admin role can open these pages, and every admin action is logged."
       ],
-      "sprints": [],
+      "sprints": [
+        39
+      ],
       "portfolio_id": "US-21",
       "points": 8,
       "tasks": [
@@ -1452,7 +1630,10 @@
         "The administrator approves each testimonial before it is published.",
         "A testimonial shows the user's name and country only if they have given consent."
       ],
-      "sprints": [],
+      "sprints": [
+        24,
+        27
+      ],
       "portfolio_id": "US-23",
       "points": 2,
       "tasks": [
