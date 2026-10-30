@@ -1109,34 +1109,6 @@
       "moscow": "Should"
     },
     {
-      "id": "B23",
-      "title": "Build Strategic Partnerships",
-      "type": "User story",
-      "priority": "Medium",
-      "members": [
-        "Marc Kabala",
-        "Tanatswa Mabhodha",
-        "Witcha Francisco",
-        "Nolwazi Zulu"
-      ],
-      "story": "As an international student, I want NavigSA to partner with trusted organisations so that I can access reliable services from verified providers.",
-      "acceptance_criteria": [
-        "A shortlist of target partners (institutions, accommodation providers, agents) is documented.",
-        "The outreach status of each partner is recorded.",
-        "Partners that have agreed appear on the website, with their permission."
-      ],
-      "sprints": [],
-      "portfolio_id": "US-06",
-      "points": 8,
-      "tasks": [
-        "Identify the target partner organisations",
-        "Write a partnership proposal",
-        "Contact partners and log their responses",
-        "Add the confirmed partners to the website"
-      ],
-      "moscow": "Should"
-    },
-    {
       "id": "B27",
       "title": "Present Project Progress",
       "type": "Enabler",
@@ -1848,6 +1820,27 @@
         "Task 4 (Sprint 32): Prepare the backend APIs"
       ],
       "moscow": "Must"
+    }
+  ],
+  "removed": [
+    {
+      "id": "B23",
+      "title": "Build Strategic Partnerships",
+      "type": "User story",
+      "priority": "Medium",
+      "members": [
+        "Marc Kabala",
+        "Tanatswa Mabhodha",
+        "Witcha Francisco",
+        "Nolwazi Zulu"
+      ],
+      "story": "As an international student, I want NavigSA to partner with trusted organisations so that I can access reliable services from verified providers.",
+      "acceptance_criteria": [
+        "A shortlist of target partners (institutions, accommodation providers, agents) is documented.",
+        "The outreach status of each partner is recorded.",
+        "Partners that have agreed appear on the website, with their permission."
+      ],
+      "sprints": []
     }
   ],
   "note": "Rebuilt from the live Trello board NAVIGSA (Latest) on 29 October 2026. portfolio_id matches the story IDs on the portfolio website. Sprint-to-backlog links are taken from each sprint card's user story and should be confirmed by the team."
